@@ -4,6 +4,7 @@ h1 {
     font-family: "Lucida Handwriting", "Brush Script", cursive;
     font-size: 70px;
     font-weight: bold;
+    border: 12px dotted rgb(115, 4, 167);
 }
 
 .Kale {
@@ -11,6 +12,9 @@ h1 {
     font-size: 24px;
     text-align: center;
     font-family: "Copperplate", fantasy;
+    width: 400px;
+    margin: 0 auto;
+    padding: 24px;
 
 } 
 
@@ -19,6 +23,9 @@ h1 {
     font-size: 24px;
     text-align: center;
     font-family: "Copperplate", fantasy;
+    width: 400px;
+    margin: 0 auto;
+    padding: 24px;
 
 } 
 
@@ -27,5 +34,8 @@ h1 {
     font-size: 24px;
     text-align: center;
     font-family: "Copperplate", fantasy;
+    width: 400px;
+    margin: 0 auto;
+    padding: 24px;
 
 } 
