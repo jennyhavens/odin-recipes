@@ -1,0 +1,31 @@
+h1 {
+    color: orange;
+    text-align: center;
+    font-family: "Lucida Handwriting", "Brush Script", cursive;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.Kale {
+    background-color: rgb(229, 174, 252);
+    font-size: 24px;
+    text-align: center;
+    font-family: "Copperplate", fantasy;
+
+} 
+
+.Poblanos {
+    background-color: rgb(216, 136, 251);
+    font-size: 24px;
+    text-align: center;
+    font-family: "Copperplate", fantasy;
+
+} 
+
+.Peaches {
+    background-color: rgb(201, 80, 253);
+    font-size: 24px;
+    text-align: center;
+    font-family: "Copperplate", fantasy;
+
+} 
